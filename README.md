@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JNPJ
-- 👀 I’m interested in web design and web development
-- 🌱 I’m currently learning web design using Html5, CSS3, and JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web development and cloud development
+- 🌱 I’m currently learning cloud development
+- 💞️ I’m looking to collaborate on anything that could use my skills
 - 📫 You can reach me at jnpj101@gmail.com
 
 <!---
